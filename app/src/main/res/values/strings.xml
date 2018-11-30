@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GoT\'s Quiz</string>
+    <string name="question_1">1. Which is House Stark?</string>
+    <string name="question_2">2. Who wrote a Song of a Ice and Fire?</string>
+    <string name="question_3">4. What are the name\'s of Khaleesi\'s dragon\'s? (check all that apply)</string>
+    <string name="question_4">5. How many legitimate children does Ned Stark have?</string>
+    <string name="question_5">3. Where is the Iron Throne located?</string>
+    <string name="question_6">6. Where does Jon Snow go in season 1? Fill in the blank: The _____ </string>
+    <string name="question_7">7. Who is this? First and Last name. </string>
+    <string name="check_1">Drogo</string>
+    <string name="check_2">Viserion</string>
+    <string name="check_3">Rhaegal</string>
+    <string name="check_4">Needle</string>
+    <string name="check_5">Ice</string>
+    <string name="question_2_radio_1">J.K. Rowling</string>
+    <string name="question_2_radio_2">George R. R. Martin</string>
+    <string name="question_2_radio_3">George K. Rowling</string>
+    <string name="question_5_radio_1">King\'s Landing</string>
+    <string name="question_5_radio_2">Winterfell</string>
+    <string name="question_5_radio_3">Casterly Rock</string>
+</resources>
