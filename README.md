@@ -1,6 +1,6 @@
 NAME: Michelle Bettencourt
-email: michelle_bettencourt@student.uml.edu
-ID: 01527021
+email: 
+ID: 
 
 
 
